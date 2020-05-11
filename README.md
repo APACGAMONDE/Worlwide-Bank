@@ -1,2 +1,2 @@
-# Worlwide-Bank
+# Worldwide-Bank
 APACGAMONDE Bank; APACGAMONDE, All Rights Reserved
